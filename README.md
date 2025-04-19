@@ -13,6 +13,8 @@ The **Dictionary Management System** is a user-friendly, C++-based project that 
 - Implementing core DSA concepts (like trees) for efficient data operations
 
 ---
+![image](https://github.com/user-attachments/assets/72d93085-18cd-453e-9f75-bd3f2f18bc20)
+
 
 ## 🛠️ Implementation Details
 
@@ -23,6 +25,7 @@ The **Dictionary Management System** is a user-friendly, C++-based project that 
 - Uses a tree structure for optimal word storage and fast lookups
 
 ---
+![image](https://github.com/user-attachments/assets/c8196f7d-f74f-4e8a-80bf-bf0d56ec74b0)
 
 ### 2. `AddWord()`
 
@@ -32,6 +35,7 @@ The **Dictionary Management System** is a user-friendly, C++-based project that 
 - Prevents duplication and provides feedback
 
 ---
+![image](https://github.com/user-attachments/assets/254f27fc-74ad-409b-a2e7-b5f6a426cd81)
 
 ### 3. `SearchWord()`
 
@@ -40,6 +44,7 @@ The **Dictionary Management System** is a user-friendly, C++-based project that 
 - Displays meaning if found, or "Word not found" message otherwise
 
 ---
+![image](https://github.com/user-attachments/assets/2ca8a264-3417-4b8e-a9d5-09276f81bd04)
 
 ### 4. `DeleteWord()`
 
@@ -48,6 +53,7 @@ The **Dictionary Management System** is a user-friendly, C++-based project that 
 - Deletes word from both UI and backend data structure
 
 ---
+![image](https://github.com/user-attachments/assets/0ee20eaa-6e5f-444d-ae60-e76093ccc4a5)
 
 ### 5. `UpdateWord()`
 
@@ -56,6 +62,7 @@ The **Dictionary Management System** is a user-friendly, C++-based project that 
 - Confirms update through a pop-up
 
 ---
+![image](https://github.com/user-attachments/assets/51fcf408-a116-4a3a-906d-96a957edde1c)
 
 ### 6. `WordSuggestion()`
 
