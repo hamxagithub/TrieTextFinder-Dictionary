@@ -1,0 +1,22 @@
+C:\Users\hamxa\OneDrive\Desktop\OOP_Practice\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATA_DICTIONARY.vcxproj.AssemblyReference.cache
+C:\Users\hamxa\OneDrive\Desktop\OOP_Practice\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.mainform.resources
+C:\Users\hamxa\OneDrive\Desktop\OOP_Practice\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATA_DICTIONARY.vcxproj.GenerateResource.cache
+C:\Users\hamxa\OneDrive\Desktop\OOP_Practice\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.main1.resources
+C:\Users\hamxa\OneDrive\Desktop\OOP_Practice\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.del.resources
+C:\Users\hamxa\OneDrive\Desktop\OOP_Practice\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.insert.resources
+C:\Users\hamxa\OneDrive\Desktop\OOP_Practice\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.search.resources
+C:\Users\hamxa\OneDrive\Desktop\OOP_Practice\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.update.resources
+C:\Users\hasna\Desktop\Hamza's Project\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATA_DICTIONARY.vcxproj.AssemblyReference.cache
+C:\Users\hasna\Desktop\Hamza's Project\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.del.resources
+C:\Users\hasna\Desktop\Hamza's Project\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.Insert.resources
+C:\Users\hasna\Desktop\Hamza's Project\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.main1.resources
+C:\Users\hasna\Desktop\Hamza's Project\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.search1.resources
+C:\Users\hasna\Desktop\Hamza's Project\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.update1.resources
+C:\Users\hasna\Desktop\Hamza's Project\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATA_DICTIONARY.vcxproj.GenerateResource.cache
+D:\Semester3\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATA_DICTIONARY.vcxproj.AssemblyReference.cache
+D:\Semester3\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.del.resources
+D:\Semester3\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.Insert.resources
+D:\Semester3\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.main1.resources
+D:\Semester3\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.search1.resources
+D:\Semester3\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATADICTIONARY.update1.resources
+D:\Semester3\DATA_DICTIONARY\DATA_DICTIONARY\x64\Debug\DATA_DICTIONARY.vcxproj.GenerateResource.cache
